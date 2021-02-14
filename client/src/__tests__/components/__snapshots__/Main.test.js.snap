@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Main component correctly 1`] = `
+<div>
+  <h1>
+    Welcome to react start app
+  </h1>
+</div>
+`;
